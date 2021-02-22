@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henree-chan.github.io/Henree-chan.githbub.io/</id>
     <title>Henree in the area</title>
-    <updated>2021-02-22T09:28:15.822Z</updated>
+    <updated>2021-02-22T09:34:08.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henree-chan.github.io/Henree-chan.githbub.io/"/>
     <link rel="self" href="https://henree-chan.github.io/Henree-chan.githbub.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://henree-chan.github.io/Henree-chan.githbub.io/images/avatar.png</logo>
     <icon>https://henree-chan.github.io/Henree-chan.githbub.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Henree in the area</rights>
+    <entry>
+        <title type="html"><![CDATA[联想系列产品广告创意大赛二等奖作品]]></title>
+        <id>https://henree-chan.github.io/Henree-chan.githbub.io/lian-xiang-xi-lie-chan-pin-guang-gao-chuang-yi-da-sai-er-deng-jiang-zuo-pin/</id>
+        <link href="https://henree-chan.github.io/Henree-chan.githbub.io/lian-xiang-xi-lie-chan-pin-guang-gao-chuang-yi-da-sai-er-deng-jiang-zuo-pin/">
+        </link>
+        <updated>2021-02-22T09:30:22.000Z</updated>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/bc5b464d-0745-462f-a739-0174f89a0653.mp4"> </iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[珠海智慧城市技术展示混剪]]></title>
         <id>https://henree-chan.github.io/Henree-chan.githbub.io/zhu-hai-zhi-hui-cheng-shi-ji-zhu-zhan-shi-hun-jian/</id>
