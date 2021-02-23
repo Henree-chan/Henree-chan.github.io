@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henree-chan.github.io/</id>
     <title>Henree in the area</title>
-    <updated>2021-02-23T04:17:10.602Z</updated>
+    <updated>2021-02-23T04:25:53.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henree-chan.github.io/"/>
     <link rel="self" href="https://henree-chan.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://henree-chan.github.io/images/avatar.png</logo>
     <icon>https://henree-chan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Henree in the area</rights>
+    <entry>
+        <title type="html"><![CDATA[4DKANKAN PRO 产品体验报告系列片]]></title>
+        <id>https://henree-chan.github.io/4dkankan-pro-chan-pin-ti-yan-bao-gao-xi-lie-pian/</id>
+        <link href="https://henree-chan.github.io/4dkankan-pro-chan-pin-ti-yan-bao-gao-xi-lie-pian/">
+        </link>
+        <updated>2021-02-23T04:21:28.000Z</updated>
+        <content type="html"><![CDATA[<p>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8c8734bb-c2e0-4d3a-96f9-6a57423f874e.mp4</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千元租房]]></title>
+        <id>https://henree-chan.github.io/qian-yuan-zu-fang/</id>
+        <link href="https://henree-chan.github.io/qian-yuan-zu-fang/">
+        </link>
+        <updated>2021-02-23T04:18:39.000Z</updated>
+        <content type="html"><![CDATA[<p>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/7bcdd3b7-aab6-4e28-ac7a-5ad809dd453d.mp4</p>
+<figure data-type="image" tabindex="1"><img src="https://henree-chan.github.io//post-images/1614054029465.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[珠海智慧城市技术展示混剪]]></title>
         <id>https://henree-chan.github.io/zhu-hai-zhi-hui-cheng-shi-ji-zhu-zhan-shi-hun-jian/</id>
