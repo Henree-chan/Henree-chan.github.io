@@ -2,11 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henree-chan.github.io/</id>
     <title>Henree in the area</title>
-    <updated>2021-02-23T09:36:10.605Z</updated>
+    <updated>2021-02-23T10:08:19.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henree-chan.github.io/"/>
     <link rel="self" href="https://henree-chan.github.io/atom.xml"/>
-    <subtitle>To make each day count</subtitle>
+    <subtitle>
+
+
+To make each day count</subtitle>
     <logo>https://henree-chan.github.io/images/avatar.png</logo>
     <icon>https://henree-chan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Henree in the area</rights>
@@ -40,8 +43,23 @@ width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-
         <link href="https://henree-chan.github.io/4dkankan-pro-chan-pin-ti-yan-bao-gao-xi-lie-pian/">
         </link>
         <updated>2021-02-23T04:21:28.000Z</updated>
+        <summary type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8c8734bb-c2e0-4d3a-96f9-6a57423f874e.mp4"> </iframe>
+]]></summary>
         <content type="html"><![CDATA[<iframe height=450 
-width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8c8734bb-c2e0-4d3a-96f9-6a57423f874e.mp4"> </iframe>]]></content>
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8c8734bb-c2e0-4d3a-96f9-6a57423f874e.mp4"> </iframe>
+<!-- more -->
+<p>项目简介：<br>
+为公司产品做了一期模拟测评的趣味广告<br>
+看似 测评，实际上是推广</p>
+<hr>
+<!-- more -->
+<p>项目经历：<br>
+1、前期拍摄，录像，相关内容的视频素材采集<br>
+2、用AE制作了封面以及每个章节的动态封面<br>
+3、增加mg动效丰富内容<br>
+4、整理素材，剪辑，加动效，配上字幕并校正，输出成品</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[千元租房]]></title>
@@ -49,8 +67,22 @@ width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-
         <link href="https://henree-chan.github.io/qian-yuan-zu-fang/">
         </link>
         <updated>2021-02-23T04:18:39.000Z</updated>
+        <summary type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/7bcdd3b7-aab6-4e28-ac7a-5ad809dd453d.mp4"> </iframe>
+]]></summary>
         <content type="html"><![CDATA[<iframe height=450 
 width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/7bcdd3b7-aab6-4e28-ac7a-5ad809dd453d.mp4"> </iframe>
+<!-- more -->
+<p>项目简介：<br>
+公司项目：【伴随人工智能时代的到来，四维时代推出“用手机拍照就能VR看房”的平台】<br>
+以此为根据点，我们制作了一条情怀宣传片，以“每个人的生活都值得被纪录”为主题<br>
+拍摄了这条千元租房的片子</p>
+<hr>
+<!-- more -->
+<p>项目经历：<br>
+1、采访，包括前期的场地布景，采访录音，录像，场地实拍影像采集等<br>
+2、在片子的基调上选择合适的配音老师，为该片子的旁白选择合适的配音，并配上合适的主题背景音乐<br>
+3、对片子的整体蕴意加深理解，结合三维动画和实景拍摄加以剪辑</p>
 ]]></content>
     </entry>
     <entry>
@@ -61,7 +93,6 @@ width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-
         <updated>2021-02-22T09:19:04.000Z</updated>
         <content type="html"><![CDATA[<iframe height=450 
 width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8378fe3e-da71-4849-9642-1b3cc86eb6f7.mp4"> </iframe>
-<hr>
 <p>视频简介：<br>
 基于公司所有智慧城市项目的素材基础上做的一个合集</p>
 <hr>
