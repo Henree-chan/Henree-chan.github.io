@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henree-chan.github.io/</id>
     <title>Henree in the area</title>
-    <updated>2021-02-23T04:25:53.228Z</updated>
+    <updated>2021-02-23T04:30:32.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henree-chan.github.io/"/>
     <link rel="self" href="https://henree-chan.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://henree-chan.github.io/images/avatar.png</logo>
     <icon>https://henree-chan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Henree in the area</rights>
+    <entry>
+        <title type="html"><![CDATA[四维时代_第一届运动会]]></title>
+        <id>https://henree-chan.github.io/si-wei-shi-dai-_-di-yi-jie-yun-dong-hui/</id>
+        <link href="https://henree-chan.github.io/si-wei-shi-dai-_-di-yi-jie-yun-dong-hui/">
+        </link>
+        <updated>2021-02-23T04:30:10.000Z</updated>
+        <content type="html"><![CDATA[<p>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/33d06dc8-2a3a-499b-b4a4-6b99561f4fcc.mp4</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4DKANKAN PRO 产品体验报告系列片]]></title>
         <id>https://henree-chan.github.io/4dkankan-pro-chan-pin-ti-yan-bao-gao-xi-lie-pian/</id>
