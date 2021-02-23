@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henree-chan.github.io/</id>
     <title>Henree in the area</title>
-    <updated>2021-02-23T03:29:12.953Z</updated>
+    <updated>2021-02-23T04:17:10.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henree-chan.github.io/"/>
     <link rel="self" href="https://henree-chan.github.io/atom.xml"/>
@@ -11,52 +11,21 @@
     <icon>https://henree-chan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Henree in the area</rights>
     <entry>
-        <title type="html"><![CDATA[成都武侯祠博物馆数字文博制作纪录片]]></title>
-        <id>https://henree-chan.github.io/cheng-du-wu-hou-ci-bo-wu-guan-shu-zi-wen-bo-zhi-zuo-ji-lu-pian/</id>
-        <link href="https://henree-chan.github.io/cheng-du-wu-hou-ci-bo-wu-guan-shu-zi-wen-bo-zhi-zuo-ji-lu-pian/">
-        </link>
-        <updated>2021-02-22T09:54:59.000Z</updated>
-        <content type="html"><![CDATA[<iframe height=450 
-width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/a2fb07bd-8f0c-4e20-8a6a-a6ee32660747.mp4"> </iframe>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想ThinkPad系列产品广告创意大赛二等奖作品]]></title>
-        <id>https://henree-chan.github.io/lian-xiang-xi-lie-chan-pin-guang-gao-chuang-yi-da-sai-er-deng-jiang-zuo-pin/</id>
-        <link href="https://henree-chan.github.io/lian-xiang-xi-lie-chan-pin-guang-gao-chuang-yi-da-sai-er-deng-jiang-zuo-pin/">
-        </link>
-        <updated>2021-02-22T09:30:22.000Z</updated>
-        <content type="html"><![CDATA[<iframe height=450 
-width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/bc5b464d-0745-462f-a739-0174f89a0653.mp4"> </iframe>
-<hr>
-<p>项目简介：<br>
-全国大学生广告艺术大赛（大广赛）的一个分支<br>
-当时的设计主题是联想笔记本的新款产品，主要体现它的性能是: 快！就一个字<br>
-最后获得联想公司颁发的二等奖😝</p>
-<p>项目经历：<br>
-当时和另外两位同学一起合作，一共三个人完成。<br>
-一位负责渲染，一位负责key动画，<br>
-我是负责整个场景的建模，角色设计以及分镜脚本设计，以及最后的合成输出</p>
-<figure data-type="image" tabindex="1"><img src="https://henree-chan.github.io//post-images/1614049218221.jpg" alt="" loading="lazy"></figure>
-<hr>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[珠海智慧城市技术展示混剪]]></title>
         <id>https://henree-chan.github.io/zhu-hai-zhi-hui-cheng-shi-ji-zhu-zhan-shi-hun-jian/</id>
         <link href="https://henree-chan.github.io/zhu-hai-zhi-hui-cheng-shi-ji-zhu-zhan-shi-hun-jian/">
         </link>
         <updated>2021-02-22T09:19:04.000Z</updated>
         <content type="html"><![CDATA[<iframe height=450 
-width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8378fe3e-da71-4849-9642-1b3cc86eb6f7.mp4"> </iframe>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[横琴商业广场-创新方 创意视频比赛个人参赛作品]]></title>
-        <id>https://henree-chan.github.io/ao-men-shang-ye-guang-chang-chuang-xin-fang-chuang-yi-shi-pin-bi-sai-ge-ren-can-sai-zuo-pin/</id>
-        <link href="https://henree-chan.github.io/ao-men-shang-ye-guang-chang-chuang-xin-fang-chuang-yi-shi-pin-bi-sai-ge-ren-can-sai-zuo-pin/">
-        </link>
-        <updated>2021-02-22T09:08:48.000Z</updated>
-        <content type="html"><![CDATA[<iframe height=450 
-width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/461b8848-f1af-492c-8355-ca17ad604711.mp4"> </iframe>]]></content>
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8378fe3e-da71-4849-9642-1b3cc86eb6f7.mp4"> </iframe>
+<hr>
+<p>视频简介：<br>
+基于公司所有智慧城市项目的素材基础上做的一个合集</p>
+<hr>
+<p>制作经历：<br>
+在公司原有的项目素材的基础上，多补拍了一些镜头，加上此前做过的一些项目案例，加以筛选<br>
+配乐，踩点，剪辑，特效合成，独立完成全片剪辑</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[德国国立陶瓷博物馆项目-采访馆长 纪录片]]></title>
@@ -82,13 +51,76 @@ width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[横琴商业广场-创新方 创意视频比赛个人参赛作品]]></title>
+        <id>https://henree-chan.github.io/ao-men-shang-ye-guang-chang-chuang-xin-fang-chuang-yi-shi-pin-bi-sai-ge-ren-can-sai-zuo-pin/</id>
+        <link href="https://henree-chan.github.io/ao-men-shang-ye-guang-chang-chuang-xin-fang-chuang-yi-shi-pin-bi-sai-ge-ren-can-sai-zuo-pin/">
+        </link>
+        <updated>2019-11-22T09:08:48.000Z</updated>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/461b8848-f1af-492c-8355-ca17ad604711.mp4"> </iframe>
+<p>项目简介：<br>
+源于一位朋友的介绍，商业广场的轮播小广告墙播放内容的招标<br>
+出于兴趣与挑战性我就参与了这个”比赛“</p>
+<hr>
+<p>项目经历：<br>
+因为这个商业广场是集合吃 穿 玩 乐等多种商业元素为一体的综合性商业广场<br>
+所以我的方案是把人的五觉表现在视频里面<br>
+<img src="https://henree-chan.github.io//post-images/1614053001020.png" alt="" loading="lazy"><br>
+故以此为大纲设计出一组图形，再参考运用了ae中的一些特色插件，用mg动画的形式表现出来<br>
+虽然这次经历并没有让我取得成果，但整个制作过程是很兴奋的，看似简单的动画蕴含着挺多小门道，一步步攻破的感觉很有成就感。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成都武侯祠博物馆数字文博制作纪录片]]></title>
+        <id>https://henree-chan.github.io/cheng-du-wu-hou-ci-bo-wu-guan-shu-zi-wen-bo-zhi-zuo-ji-lu-pian/</id>
+        <link href="https://henree-chan.github.io/cheng-du-wu-hou-ci-bo-wu-guan-shu-zi-wen-bo-zhi-zuo-ji-lu-pian/">
+        </link>
+        <updated>2019-03-22T09:54:59.000Z</updated>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/a2fb07bd-8f0c-4e20-8a6a-a6ee32660747.mp4"> </iframe>
+<p>项目简介：<br>
+与成都武侯祠博物馆合作，以国内首创的3D数字文化之旅赋能传统博物馆<br>
+此视频作为企业参赛作品参加比赛，获得第五届全国十佳文博技术产品及服务</p>
+<hr>
+<p>项目经历：<br>
+1、采集采访数据：<br>
+包括前往成都拍摄，前期采访，录音录像，馆内工作人员工作以及其他等实拍影像的采集；<br>
+2、其实原有的素材不多，所以后期我们写了一些稿子，找了公司几位技术大牛帮忙做采访，最终丰富了整条片子里面需要技术讲解的部分，使得整条片子的内容更加丰满且有说服力；<br>
+3、整理素材，收集素材，剪辑，加动效，配上字幕并校正，输出成品。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想ThinkPad系列产品广告创意大赛二等奖作品]]></title>
+        <id>https://henree-chan.github.io/lian-xiang-xi-lie-chan-pin-guang-gao-chuang-yi-da-sai-er-deng-jiang-zuo-pin/</id>
+        <link href="https://henree-chan.github.io/lian-xiang-xi-lie-chan-pin-guang-gao-chuang-yi-da-sai-er-deng-jiang-zuo-pin/">
+        </link>
+        <updated>2018-06-22T09:30:22.000Z</updated>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/bc5b464d-0745-462f-a739-0174f89a0653.mp4"> </iframe>
+<hr>
+<p>项目简介：<br>
+全国大学生广告艺术大赛（大广赛）的一个分支<br>
+当时的设计主题是联想笔记本的新款产品，主要体现它的性能是: 快！就一个字<br>
+最后获得联想公司颁发的二等奖😝</p>
+<p>项目经历：<br>
+当时和另外两位同学一起合作，一共三个人完成。<br>
+一位负责渲染，一位负责key动画，<br>
+我是负责整个场景的建模，角色设计以及分镜脚本设计，以及最后的合成输出</p>
+<figure data-type="image" tabindex="1"><img src="https://henree-chan.github.io//post-images/1614049218221.jpg" alt="" loading="lazy"></figure>
+<hr>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2018塞尔维亚旅行vlog]]></title>
         <id>https://henree-chan.github.io/ce-shi/</id>
         <link href="https://henree-chan.github.io/ce-shi/">
         </link>
-        <updated>2021-02-22T06:33:32.000Z</updated>
-        <content type="html"><![CDATA[<iframe height=450 
-width=800 src="//player.bilibili.com/player.html?aid=22328440&bvid=BV1GW41157YJ&cid=36971381&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+        <updated>2018-04-22T06:33:32.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="iframe-height450-width800-srcplayerbilibilicomplayerhtmlaid22328440bvidbv1gw41157yjcid36971381page1-scrollingno-border0-frameborderno-framespacing0-allowfullscreentrue-iframe"><iframe height=450 
+width=800 src="//player.bilibili.com/player.html?aid=22328440&bvid=BV1GW41157YJ&cid=36971381&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></h2>
+<p>毕业的时候一个人跑到欧洲唯一免签国家塞尔维亚去走走<br>
+朋友从英国飞过来和我会面<br>
+7天6夜，很美好的回忆</p>
 ]]></content>
     </entry>
 </feed>
