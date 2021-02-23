@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henree-chan.github.io/</id>
     <title>Henree in the area</title>
-    <updated>2021-02-23T04:30:32.941Z</updated>
+    <updated>2021-02-23T05:44:13.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henree-chan.github.io/"/>
     <link rel="self" href="https://henree-chan.github.io/atom.xml"/>
@@ -16,8 +16,8 @@
         <link href="https://henree-chan.github.io/si-wei-shi-dai-_-di-yi-jie-yun-dong-hui/">
         </link>
         <updated>2021-02-23T04:30:10.000Z</updated>
-        <content type="html"><![CDATA[<p>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/33d06dc8-2a3a-499b-b4a4-6b99561f4fcc.mp4</p>
-]]></content>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/33d06dc8-2a3a-499b-b4a4-6b99561f4fcc.mp4"> </iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4DKANKAN PRO 产品体验报告系列片]]></title>
@@ -25,8 +25,8 @@
         <link href="https://henree-chan.github.io/4dkankan-pro-chan-pin-ti-yan-bao-gao-xi-lie-pian/">
         </link>
         <updated>2021-02-23T04:21:28.000Z</updated>
-        <content type="html"><![CDATA[<p>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8c8734bb-c2e0-4d3a-96f9-6a57423f874e.mp4</p>
-]]></content>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/8c8734bb-c2e0-4d3a-96f9-6a57423f874e.mp4"> </iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[千元租房]]></title>
@@ -34,7 +34,8 @@
         <link href="https://henree-chan.github.io/qian-yuan-zu-fang/">
         </link>
         <updated>2021-02-23T04:18:39.000Z</updated>
-        <content type="html"><![CDATA[<p>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/7bcdd3b7-aab6-4e28-ac7a-5ad809dd453d.mp4</p>
+        <content type="html"><![CDATA[<iframe height=450 
+width=800 src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/7bcdd3b7-aab6-4e28-ac7a-5ad809dd453d.mp4"> </iframe>
 <figure data-type="image" tabindex="1"><img src="https://henree-chan.github.io//post-images/1614054029465.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
